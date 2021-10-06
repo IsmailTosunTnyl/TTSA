@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/actionButtonAyarlar"
+        android:icon="@drawable/settings_vector"
+        android:title="@string/toolbar_menubutton_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/ActionButtonBilgi"
+        android:title="@string/toolbar_menubutton_info"
+        app:showAsAction="never" />
+</menu>

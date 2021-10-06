@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Totally Serious Sound Application</string>
+    <string name="toolbar_menubutton_settings">Ayarlar</string>
+    <string name="toolbar_menubutton_info">Bilgi</string>
+    <string name="toolbar_menubutton_add">Ekle</string>
+    <string name="tablayout_hompage">Ana Sayfa</string>
+    <string name="tablayout_fav">Favoriler</string>
+    <string name="toolbar_maintitle">Totally Serious Sound App</string>
+    <string name="versiyon">BETA-260820</string>
+</resources>
